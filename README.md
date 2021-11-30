@@ -8,6 +8,12 @@ Father of three, husband, dog owner and software engineer.
 - **Privacy** advocate – use privacy oriented apps/solutions if possible
 
 
+## Recent blog posts
+- [Ortholinear keyboards](https://www.amidev.tech/ortholinear-keyboards/)
+- [Why your standard Qwerty keyboard might not be right for you](https://www.amidev.tech/why-your-standard-qwerty-keyboard-might-not-be-right-for-you/)
+- [Public love to private Anne — how my journey with mechanical keyboards begins](https://www.amidev.tech/public-love-to-private-anne-how-my-journey-with-mechanical-keyboards-begins/)
+
+
 ## Contact
 - Email: info@amidev.tech
 - Github: https://github.com/amidevtech
